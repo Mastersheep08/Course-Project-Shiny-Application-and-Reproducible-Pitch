@@ -30,4 +30,4 @@ The presentation must satisfy the following
     4. It must contained some embedded R code that gets run when slidifying the document
     
  Link for the Application: https://mastersheep08.shinyapps.io/diamond_price_predictor/
- Link for the Presentation: 
+ Link for the Presentation: https://rpubs.com/Mastersheep08/969118
